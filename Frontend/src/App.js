@@ -79,6 +79,7 @@ function App() {
             <Route path="/allbatches" component={AllBatches} />
             <Route path="/allpackages" component={AllPackages} />
             
+          
             <Route path="/adminpage" component={AdminPage} />
             <Route path="/memberpage" component={MemberPage} />
             <Route path="/localadminpage" component={LocalAdminPage} />

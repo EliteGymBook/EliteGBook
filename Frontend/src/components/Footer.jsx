@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import AboutHome from './AboutHome';
 const Footer = () => {
   return (
     <div>
@@ -8,39 +9,25 @@ const Footer = () => {
             <section class="">
               <div class="row">
                 <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
-                  <h5 class="text-uppercase text-color">
-                  Elite Gym Book
+                <h5 class="text-uppercase text-color ">
+                  EliteGymBook
                   </h5>
-
-                  <p className="d-flex justify-content-center text-justify align-items-center">
-                  A Gym Management System is a comprehensive software solution designed to streamline and automate the day-to-day operations of fitness centers, gyms, and health clubs. It typically includes features for member management, class scheduling, billing, attendance tracking, and staff management, enabling gym owners and administrators to efficiently manage their business.
-                  </p>
-                </div>
+                  <p className="d-flex justify-content-center text-justify align-items-center" style={{ fontWeight: '' }}>
+  EliteGymBook is your go-to platform for finding and booking the best gyms near you. Our user-friendly web application makes it easy to search, compare, and secure gym memberships with just a few clicks. We're here to help you reach your fitness goals while supporting gym owners in growing their businesses.
+</p> </div>
 
                 <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
                   <h5 class="text-uppercase text-color-4">About us</h5>
 
                   <ul class="list-unstyled mb-0">
                     <li>
-                      <a href="www.google.com" class="text-color">
+                      <a href="/AboutHome" class="text-color">
                         Link 1
                       </a>
                     </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 2
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 3
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 4
-                      </a>
-                    </li>
+                 
+                   
+                    
                   </ul>
                 </div>
 
@@ -49,54 +36,17 @@ const Footer = () => {
 
                   <ul class="list-unstyled mb-0">
                     <li>
-                      <a href="#!" class="text-color">
+                      <a href="/Contact" class="text-color">
                         Link 1
                       </a>
                     </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 2
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 3
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 4
-                      </a>
-                    </li>
+                   
+                   
+                    
                   </ul>
                 </div>
 
-                <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
-                  <h5 class="text-uppercase text-color-4">Links</h5>
-
-                  <ul class="list-unstyled mb-0">
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 1
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 2
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 3
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 4
-                      </a>
-                    </li>
-                  </ul>
-                </div>
+                
               </div>
             </section>
 

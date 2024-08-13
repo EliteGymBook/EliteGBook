@@ -9,7 +9,7 @@ const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light py-2">
             <div className="container">
-                <NavLink to="/" className="navbar-brand" style={{ fontSize: '1.2rem' }}>EliteGymClub</NavLink>
+                <NavLink to="/" className="navbar-brand" style={{ fontSize: '1.2rem' }}>EliteGymBook</NavLink>
                 <button
                     className="navbar-toggler"
                     type="button"
