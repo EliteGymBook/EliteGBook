@@ -21,8 +21,8 @@ const Footer = () => {
 
                   <ul class="list-unstyled mb-0">
                     <li>
-                      <a href="/AboutHome" class="text-color">
-                        Link 1
+                      <a href="https://github.com/EliteGymBook/EliteGymBook" class="text-color">
+                        Github
                       </a>
                     </li>
                  
