@@ -16,13 +16,13 @@ const About = () => {
                 <section className="mb-5">
                     <h1 className="text-center mb-4">About Us</h1>
                     <p className="lead text-center">
-                        We at FitnessClub, have taken a vow to make our #Fitness healthy and happy. We have been winning the battle for the last 10 years since we started our journey. Today our family comprises thousands of members and we are growing every day.
+                    Welcome to EliteGymBook, your go-to platform for discovering and booking the best gyms in your area.
                     </p>
                     <p className="lead text-center">
-                        We have trained experts with great education, experience, and insight who will help you to be fit and healthy and help you optimize the transition process.
+                    Whether you're a fitness enthusiast or a gym owner, our easy-to-use web application connects you with top-rated gyms, allowing you to search, compare, and secure memberships with just a few clicks.
                     </p>
                     <p className="lead text-center">
-                        We help you optimize your nutrition intake with the help of our expert nutritionists and get in shape with the guidance of the best trainers in the industry.
+                    At EliteGymBook, we believe in making fitness accessible and convenient for everyone, helping you achieve your health goals while gym owners grow their business.
                     </p>
                 </section>
                 
